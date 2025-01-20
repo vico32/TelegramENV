@@ -5,6 +5,7 @@ Subir a video con su información a mi mensajero favorito.
 ```sh
 git clone https://github.com/vico32/TelegramENV
 cd TelegramENV
+cd mkdir media
 pip3 install telethon python-dotenv
 python3 start_bot.py
 ```
