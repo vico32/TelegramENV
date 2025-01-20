@@ -16,7 +16,7 @@ TelegramENV/
 │
 ├── start_bot.py       # Archivo principal que ejecuta todo
 ├── watcher.py         # Monitorea la carpeta
-├── main.py            # Envía los archivos al bot
+├── main.py            # Envía los archivos al canal publico en el servidor.
 └── /media/      # Carpeta que contiene los archivos para procesar
     ├── archivo1.jpg
     ├── archivo1.txt   # Descripción para archivo1.jpg
