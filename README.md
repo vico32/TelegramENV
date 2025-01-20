@@ -3,7 +3,7 @@ Subir a video con su información a mi mensajero favorito.
 ## Instalación propia funcional, con ia y sin conocimientos previos, Gracias ciencia por la oportunidad.
 
 ```sh
-git clone https://github.com/vico32/TelegramENV
+git clone https://github.com/vico32/TelegramENV.git
 cd TelegramENV
 mkdir media
 pip3 install telethon python-dotenv
