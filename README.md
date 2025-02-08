@@ -26,3 +26,8 @@ TelegramENV/
 
 El script recoge la información y la sube al servidor como descripciòn del jpg.
 ```
+```sh
+API_ID y API_HASH: Los obtienes desde el portal de desarrolladores de Telegram (my.telegram.org).
+PHONE_NUMBER: El número de teléfono que usas para iniciar sesión en Telegram (formato internacional con el prefijo).
+CHAT_ID: El chat_id o el nombre del canal creado donde quieres enviar los archivos (tiene que ser publico).
+```
