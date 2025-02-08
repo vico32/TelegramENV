@@ -9,6 +9,7 @@ mkdir media
 pip3 install telethon python-dotenv psutil
 python3 watcher.py
 ```
+```
 #Insertas tu número de cell con prefijo y te pedira el codigo de confirmación de telegram.
 #Para que inicie cron de 3 horas y no recargues el sistema ejecuta el siguiente comando.
 python3 start_bot.py
