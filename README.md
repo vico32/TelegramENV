@@ -15,8 +15,9 @@ Estructura
 
 TelegramENV/
 │
+├── .env               # Archivo con las credenciales
 ├── start_bot.py       # Archivo principal que ejecuta todo
-├── watcher.py         # Monitorea la carpeta
+├── watcher.py         # Se ejecuta una primera vez, termina de loguearte y queda monitoreando la carpeta media
 ├── main.py            # Envía los archivos al canal publico en el servidor.
 └── /media/            # Carpeta que contiene los archivos para procesar
     ├── archivo1.jpg
