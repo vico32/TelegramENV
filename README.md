@@ -9,10 +9,11 @@ mkdir media
 pip3 install telethon python-dotenv psutil
 python3 start_bot.py
 ```
+```
 #Insertas tu número de cell con prefijo y te pedira el codigo de confirmación de telegram.
 ```
 
-```sh
+```
 Estructura
 
 TelegramENV/
